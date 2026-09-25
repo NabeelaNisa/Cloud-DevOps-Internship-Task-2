@@ -60,3 +60,10 @@ This document maps the Task 2 requirements to the corresponding project evidence
 | Pricing Estimate | `cost/pricing-estimate.jpeg` |
 | Pricing Overview | `cost/pricing-overview.jpeg` |
 | Pricing Payment | `cost/pricing-payment.jpeg` |
+
+---
+
+## Reports
+
+- [Infrastructure Report](../docs/infrastructure-report.pdf)
+- [Cost Estimation Report](../cost/cost-estimation-report.pdf)

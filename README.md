@@ -124,8 +124,16 @@ AWS Pricing Calculator evidence is included in the `cost/` directory.
 - [Pricing Estimate](cost/pricing-estimate.jpeg)
 - [Pricing Overview](cost/pricing-overview.jpeg)
 - [Pricing Payment](cost/pricing-payment.jpeg)
+- [Cost Estimation Report](cost/cost-estimation-report.pdf)
 
 Actual AWS charges may vary depending on usage, storage, data transfer, pricing changes, and applicable Free Tier eligibility.
+
+---
+
+## Reports
+
+- [Infrastructure Report](docs/infrastructure-report.pdf)
+- [Cost Estimation Report](cost/cost-estimation-report.pdf)
 
 ---
 
