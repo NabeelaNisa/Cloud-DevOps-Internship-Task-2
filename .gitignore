@@ -1,0 +1,22 @@
+# AWS credentials and secrets
+.aws/
+.env
+.env.*
+credentials
+credentials.*
+aws_access_keys.csv
+
+# SSH/private keys
+*.pem
+*.ppk
+*.key
+*.p12
+
+# Terraform state
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
