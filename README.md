@@ -114,6 +114,16 @@ The AWS architecture diagram for the Task 2 infrastructure is included below.
 
 ---
 
+## Architecture Visualization
+
+The following diagram provides a polished visual representation of the Task 2 architecture and AWS service relationships.
+
+![AWS Task 2 Architecture](architecture/aws-task2-architecture.png)
+
+> Note: This visualization is a presentation diagram. Refer to the original architecture evidence and AWS screenshots for the actual deployed configuration.
+
+---
+
 ## Cost Estimation
 
 AWS Pricing Calculator evidence is included in the `cost/` directory.
